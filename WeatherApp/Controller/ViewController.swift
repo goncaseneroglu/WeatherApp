@@ -31,7 +31,7 @@ class ViewController: UIViewController, UITextFieldDelegate, WeatherManagerDeleg
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         searchTextField.endEditing(true)
-        print(searchTextField.text!)
+        print(searchTextField.text ?? "Empty Text")
         return true
     }
     

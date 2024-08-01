@@ -62,6 +62,7 @@
 		3AA92C1F2C490DFC006CA23C /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				3AA92C2E2C490DFD006CA23C /* Info.plist */,
 				3AA92C362C4BAEA4006CA23C /* Model */,
 				3AA92C372C4BAEB9006CA23C /* View */,
 				3AA92C382C4BAEC2006CA23C /* Controller */,
@@ -111,7 +112,6 @@
 			children = (
 				3AA92C292C490DFD006CA23C /* Assets.xcassets */,
 				3AA92C2B2C490DFD006CA23C /* LaunchScreen.storyboard */,
-				3AA92C2E2C490DFD006CA23C /* Info.plist */,
 			);
 			path = AppResources;
 			sourceTree = "<group>";
