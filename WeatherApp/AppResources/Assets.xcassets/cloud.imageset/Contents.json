@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "WhatsApp Image 2024-07-20 at 14.43.23 (1).jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "WhatsApp Image 2024-07-20 at 14.43.23 (1) 1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "WhatsApp Image 2024-07-20 at 14.43.23.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
